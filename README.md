@@ -1,8 +1,9 @@
 <!-- Intro --> 
 <h3 align = "center"> Hello! Welcome to my profile! </h3>
+![](https://loading.io/asset/578831)
  
 <!-- About Me Section -->
-Hello
+Hello! Welcome to my profile.
  - Transition
 - Current Work
 - Future Goals
