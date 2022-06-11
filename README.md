@@ -4,9 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 <h3 align="center"> Welcome! 👋&nbsp; </h3>
-I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in Computer Science in Fall 2023. 
-
-My schooling history is as follows:
+I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in Computer Science in Fall 2023. My schooling history is as follows:
 
 
 <!-- School History -->
