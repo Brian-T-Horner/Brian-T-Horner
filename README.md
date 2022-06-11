@@ -1,6 +1,5 @@
 <!-- Intro --> 
 <p align="center"> <img src ="https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif" alt="animated" /> </p>
-
 <!-- About Me Section -->
 <h3 align="center"> Welcome! 👋&nbsp; </h3>
 
@@ -49,7 +48,7 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 
 ---------------------------------------------------------------------------------------------------------------------------
 <!-- Stats -->
-📈 &nbsp; Check out my programming statistics!
+<h3 align="center"> 📈 &nbsp; Check out my programming statistics! </h3>
  
 | Github Stats | Top Languages |
 | --- | --- |
