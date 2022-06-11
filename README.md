@@ -16,7 +16,7 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 
 📝&nbsp;Find my current resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/977530b8e9249caf60b18be66760084522d8413a/Brian%20Horner%20-%20Software%20Development.pdf).
 
- <h2 align="center"> 💬&nbsp;Please feel free to reach out through any of the social media below: </h2>
+ <h3 align="center"> 💬&nbsp;Please feel free to reach out through any of the social media below: </h3>
 
 <!-- Social Media Links -->
  <p align="center">
