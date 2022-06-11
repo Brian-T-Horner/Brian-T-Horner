@@ -3,6 +3,7 @@
 
 <!-- About Me Section -->
 <h3 align="center"> Welcome! 👋&nbsp; </h3>
+---------------------------------------------------------------------------------------------------------------------------
 
 I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in computer science in Fall 2023. My schooling history is as follows:
 <!-- School History -->
@@ -12,12 +13,11 @@ I am currently on the journey from a Non-STEM background into a Software Enginee
 
 💻&nbsp;My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work).
 
-I am currently looking for a Software Enginnering Internship or any apprenticeship oppurtunities in the great Boston area!
+I am currently looking for a Software Enginnering Internship or any apprenticeship oppurtunities in the great Boston area.📝&nbsp;Find my current resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/977530b8e9249caf60b18be66760084522d8413a/Brian%20Horner%20-%20Software%20Development.pdf).
 
-📝&nbsp;Find my current resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/977530b8e9249caf60b18be66760084522d8413a/Brian%20Horner%20-%20Software%20Development.pdf).
+---------------------------------------------------------------------------------------------------------------------------
 
-
- <h3 align="center"> 💬&nbsp;Please feel free to reach out through any of the social media below: </h3>
+<h3 align="center"> 💬&nbsp;Please feel free to reach out through any of the social media below: </h3>
 
 <!-- Social Media Links -->
  <p align="center">
@@ -35,6 +35,8 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 
 
 <!-- Interests -->
+---------------------------------------------------------------------------------------------------------------------------
+
 <h3 align="center"> 🔑 &nbsp; Current Interests and Learning Objectives </h3>
  
 * I am currently building a collection of [Data Structures and Algorithms](https://github.com/Brian-T-Horner/DataStructures_and_Algorithms) with their time and space complexities.
@@ -44,6 +46,7 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 
 <!-- Reading List -->
 
+---------------------------------------------------------------------------------------------------------------------------
 <!-- Stats -->
 📈 &nbsp; Check out my programming statistics!
  
