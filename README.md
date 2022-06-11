@@ -26,6 +26,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brian-T-Horner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brian's GitHub Stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brian-T-Horner&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+
