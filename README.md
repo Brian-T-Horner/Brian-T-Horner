@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### I am current a Masters of Computer Science Student at TBD (Choosing between schools).
 ### I have most recently recieved my Undergraduate Certificate of Computer Science from Boston University - MET
 
-### My backlog of school work can be found [in this organization] (https://github.com/BrianHorner-School-Work)
+### My backlog of school work can be found [in this organization](https://github.com/BrianHorner-School-Work)
 
 ### How to get in touch
  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/uxSDYbYH) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brianthorner/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/brian4hockey/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/brian_horner33/)  &nbsp; <a href="mailto:bhorner@suffolk.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
