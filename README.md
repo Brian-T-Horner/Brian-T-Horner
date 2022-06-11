@@ -1,8 +1,9 @@
 <!-- Intro --> 
 <h3 align = "center"> Hello! Welcome to my profile! </h3>
-[![](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/844d5b0d0577837c03746571de2c0b7c8c998c78/Name%20Gif.gif)]
+![Name Gif](https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif)
 
-https://github.com/Brian-T-Horner/Brian-T-Horner/blob/844d5b0d0577837c03746571de2c0b7c8c998c78/Name%20Gif.gif
+
+
      
  
 <!-- About Me Section -->
