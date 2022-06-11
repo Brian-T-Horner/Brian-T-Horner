@@ -1,6 +1,7 @@
 <!-- Intro --> 
-<h3 align = "center">![](https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif)</h3>
- Hello! Welcome to my profile! 
+<p align="center> <img src ="https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif" alt="animated" /> </p>
+
+
 
 
 
