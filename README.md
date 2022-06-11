@@ -5,7 +5,7 @@
 Welcome! 👋&nbsp;
 
 I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in computer science in Fall 2023. My schooling history is as follows:
- Masters of Computer Science Student at TBD. Currently choosing between offers.
+* Masters of Computer Science Student at TBD. Currently choosing between offers.
 * Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/).
 * Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/). 
 
