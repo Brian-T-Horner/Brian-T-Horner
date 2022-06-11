@@ -1,7 +1,31 @@
 <!-- Intro --> 
 <p align="center"> <img src ="https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif" alt="animated" /> </p>
-<p align="center">
- &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="5%"/>](https://discord.gg/uxSDYbYH) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/brianthorner/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="5%"/>](https://www.facebook.com/brian4hockey/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/brian_horner33/)  &nbsp; <a href="mailto:bhorner@suffolk.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </p>
+
+<-- Social Media Links -->
+ <p align="center">
+  
+  <a href="https://www.linkedin.com/in/brianthorner/"><img width="32px" alt="" title="Linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  <a href="https://discord.gg/uxSDYbYH"><img width="32px" alt="" title="Discord" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  
+  <a href="mailto:bhorner@suffolk.edu"><img width="32px" alt="" title="Email" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+    
+  <a href="https://www.instagram.com/brian_horner33/"><img width="32px" alt="" title="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+    
+  <a href="https://www.facebook.com/brian4hockey/"><img width="32px" alt="" title="Facebook" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  
+  
+
+</p>
 
 
 
