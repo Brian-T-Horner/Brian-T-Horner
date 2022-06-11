@@ -5,6 +5,7 @@
 Welcome! 👋&nbsp;
 
 I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in computer science in Fall 2023. My schooling history is as follows:
+<!-- School History -->
 * Masters of Computer Science Student at TBD. Currently choosing between offers.
 * Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/).
 * Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/). 
@@ -31,16 +32,21 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-### Languages
+
+<!-- Interests -->
+🔑 &nbsp; ## Current Interests and Learning Objectives
+* I am currently building a collection of [Data Structures and Algorithms](https://github.com/Brian-T-Horner/DataStructures_and_Algorithms) with their time and space complexities.
+* I love Formula One and have been working on using machine learning for [Formula One Data Analysis](https://github.com/BrianHorner-School-Work/CS677_Project).
+* I am currently interest in [compilers](https://norasandler.com/2017/11/29/Write-a-Compiler.html) and [computer architecture](https://github.com/BrianHorner-School-Work/CS472-Project3).
+
 
 - Future Goals
 
 
 
 
-<!-- School History -->
 
-Schooling History 
+
 
 
 
@@ -48,7 +54,7 @@ Schooling History
 
 <!-- Work History (TODO) -->
  
-<!-- Interests -->
+
 
 <!-- Current Projects -->
 
