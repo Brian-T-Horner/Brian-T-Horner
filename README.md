@@ -1,6 +1,20 @@
 <!-- Intro --> 
 <p align="center"> <img src ="https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif" alt="animated" /> </p>
 
+<!-- About Me Section -->
+Welcome!
+
+I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in computer science in Fall 2023. My schooling history is as follows:
+* Masters of Computer Science Student at TBD (Choosing between schools).
+* Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/).
+* Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/). 
+
+My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work).
+
+I am currently looking for a Software Enginnering Internship or any apprenticeship oppurtunities in the great Boston area! Find my current resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/977530b8e9249caf60b18be66760084522d8413a/Brian%20Horner%20-%20Software%20Development.pdf).
+
+Please feel free to reach out through any of the social media below:
+
 <!-- Social Media Links -->
  <p align="center">
   <a href="https://www.linkedin.com/in/brianthorner/"><img width="30px" alt="" title="Linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
@@ -15,30 +29,19 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+### Languages
 
-
-
-
-
-     
- 
-<!-- About Me Section -->
-Welcome
- - Transition
-- Current Work
 - Future Goals
 
 
-I am currently looking for a Software Enginnering Internship! Find my current resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/977530b8e9249caf60b18be66760084522d8413a/Brian%20Horner%20-%20Software%20Development.pdf).
+
 
 <!-- School History -->
 
 Schooling History 
-* Masters of Computer Science Student at TBD (Choosing between schools).
-* Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/).
-* Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/). 
 
-My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work).
+
+
 
 
 <!-- Work History (TODO) -->
