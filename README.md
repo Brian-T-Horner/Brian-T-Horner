@@ -1,7 +1,7 @@
 <!-- Intro --> 
 <p align="center"> <img src ="https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif" alt="animated" /> </p>
-<h3 align="center">
- &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="5%"/>](https://discord.gg/uxSDYbYH) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/brianthorner/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="5%"/>](https://www.facebook.com/brian4hockey/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/brian_horner33/)  &nbsp; <a href="mailto:bhorner@suffolk.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </h3>
+<p align="center">
+ &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="5%"/>](https://discord.gg/uxSDYbYH) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/brianthorner/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="5%"/>](https://www.facebook.com/brian4hockey/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/brian_horner33/)  &nbsp; <a href="mailto:bhorner@suffolk.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/> </p>
 
 
 
