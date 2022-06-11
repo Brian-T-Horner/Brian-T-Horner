@@ -1,10 +1,8 @@
 <!-- Intro --> 
 <p align="center"> <img src ="https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif" alt="animated" /> </p>
 <!-- About Me Section -->
-<h3 align="center"> Welcome! 👋&nbsp; </h3>
-
 ---------------------------------------------------------------------------------------------------------------------------
-
+<h3 align="center"> Welcome! 👋&nbsp; </h3>
 I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in computer science in Fall 2023. My schooling history is as follows:
 <!-- School History -->
 * Masters of Computer Science Student at TBD. Currently choosing between offers.
