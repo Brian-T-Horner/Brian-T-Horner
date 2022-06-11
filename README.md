@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I am current a Masters of Computer Science Student
 
 ## &#x1f4c8; How to get in touch
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https:/steamcommunity.com/profiles/76561198111263043)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/uxSDYbYH) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brianthorner/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/brian4hockey/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/brian_horner33/)  &nbsp; <a href="mailto:bhorner@suffolk.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/uxSDYbYH) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brianthorner/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/brian4hockey/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/brian_horner33/)  &nbsp; <a href="mailto:bhorner@suffolk.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
   
 ## &#x1f4c8; GitHub Stats
