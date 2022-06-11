@@ -2,14 +2,14 @@
 <p align="center"> <img src ="https://user-images.githubusercontent.com/36799599/173204469-69238320-e0be-4b7f-9cfe-d30c38242ac2.gif" alt="animated" /> </p>
 
 <!-- About Me Section -->
-Welcome!
+Welcome! 👋&nbsp;
 
 I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in computer science in Fall 2023. My schooling history is as follows:
  Masters of Computer Science Student at TBD. Currently choosing between offers.
 * Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/).
 * Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/). 
 
-My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work).
+💻&nbsp;My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work).
 
 I am currently looking for a Software Enginnering Internship or any apprenticeship oppurtunities in the great Boston area!
 
