@@ -5,6 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 <h3 align="center"> Welcome! 👋&nbsp; </h3>
 I am currently on the journey from a Non-STEM background into a Software Engineer! I will be starting my Masters in computer science in Fall 2023. My schooling history is as follows:
+
 <!-- School History -->
 * Masters of Computer Science Student at TBD. Currently choosing between offers.
 * Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/).
