@@ -34,40 +34,17 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 
 
 <!-- Interests -->
-🔑 &nbsp; ## Current Interests and Learning Objectives
+🔑 &nbsp; Current Interests and Learning Objectives
 * I am currently building a collection of [Data Structures and Algorithms](https://github.com/Brian-T-Horner/DataStructures_and_Algorithms) with their time and space complexities.
 * I love Formula One and have been working on using machine learning for [Formula One Data Analysis](https://github.com/BrianHorner-School-Work/CS677_Project).
-* I am currently interest in [compilers](https://norasandler.com/2017/11/29/Write-a-Compiler.html) and [computer architecture](https://github.com/BrianHorner-School-Work/CS472-Project3).
-
-
-- Future Goals
-
-
-
-
-
-
-
-
-
-
-
-<!-- Work History (TODO) -->
- 
-
-
-<!-- Current Projects -->
-
-<!-- Future Projects (TODO) -->
+* I am currently interest in compilers and [computer architecture](https://github.com/BrianHorner-School-Work/CS472-Project3). I plan to build my own [compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html) in the near future!
+* I am currently in the early stages of creating ym own 2D game. Follow along with my [progress](https://github.com/Brian-T-Horner/Voyager).
 
 <!-- Reading List -->
 
-<!-- Get in touch -->
-
-
- 
 <!-- Stats -->
-  
+📈 &nbsp; Check out my programming statistics!
+ 
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Brians's github stats](https://github-readme-stats.vercel.app/api?username=Brian-T-Horner&show_icons=true&title_color=ffffff&icon_color=2bbc8a&text_color=c9cacc&bg_color=1d1f21&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-T-Horner&show_icons=true&title_color=ffffff&icon_color=2bbc8a&text_color=c9cacc&bg_color=1d1f21&count_private=true&layout=compact) |
