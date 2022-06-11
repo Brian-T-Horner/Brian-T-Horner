@@ -1,6 +1,6 @@
 <!-- Intro --> 
 <h3 align = "center"> Hello! Welcome to my profile! </h3>
-[![](https://imgur.com/a/UILY1w2.gif)]
+[![](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/6c636b8d41574c950fd0c1ecdff6d534c37c5ded/Name%20Gif.gif)]
      
  
 <!-- About Me Section -->
