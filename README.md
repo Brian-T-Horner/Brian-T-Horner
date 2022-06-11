@@ -11,10 +11,11 @@ I am currently on the journey from a Non-STEM background into a Software Enginee
 
 My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work).
 
-I am currently looking for a Software Enginnering Internship or any apprenticeship oppurtunities in the great Boston area! 
-📝 &nbsp; Find my current resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/977530b8e9249caf60b18be66760084522d8413a/Brian%20Horner%20-%20Software%20Development.pdf).
+I am currently looking for a Software Enginnering Internship or any apprenticeship oppurtunities in the great Boston area!
 
- 💬 &nbsp; Please feel free to reach out through any of the social media below:
+📝&nbsp;Find my current resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/977530b8e9249caf60b18be66760084522d8413a/Brian%20Horner%20-%20Software%20Development.pdf).
+
+ 💬&nbsp;Please feel free to reach out through any of the social media below:
 
 <!-- Social Media Links -->
  <p align="center">
