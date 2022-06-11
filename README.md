@@ -35,7 +35,7 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 
 
 <!-- Interests -->
-<h3 align="center"> 🔑 &nbsp; Current Interests and Learning Objectives <h3/>
+<h3 align="center"> 🔑 &nbsp; Current Interests and Learning Objectives </h3>
  
 * I am currently building a collection of [Data Structures and Algorithms](https://github.com/Brian-T-Horner/DataStructures_and_Algorithms) with their time and space complexities.
 * I love Formula One and have been working on using machine learning for [Formula One Data Analysis](https://github.com/BrianHorner-School-Work/CS677_Project).
