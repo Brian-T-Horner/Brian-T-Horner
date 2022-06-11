@@ -2,9 +2,6 @@
 <h3 align = "center"> Hello! Welcome to my profile! </h3>
 <img align = "center" height="250" width="375" alt="" src = "https://imgur.com/a/UILY1w2"/>
      
-     (https://imgur.com/RtWuErB) />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/UILY1w2" data-context="false" ><a href="//imgur.com/a/UILY1w2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-https://imgur.com/RtWuErB
  
 <!-- About Me Section -->
 Hello! Welcome to my profile.
