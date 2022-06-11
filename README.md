@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <h3> School History </h3>
- <ul>
-- Masters of Computer Science Student at TBD (Choosing between schools). </li>
-- Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/) </li>
-- Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/) </li>
- </ul>
+### * <h3> School History </h3
+
+* Masters of Computer Science Student at TBD (Choosing between schools).
+* Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/)
+* Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/) 
+
 
 I am currently looking for a Software Enginnering Internship! 
 
