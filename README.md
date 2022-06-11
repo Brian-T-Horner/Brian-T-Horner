@@ -1,6 +1,6 @@
 <!-- Intro --> 
 <h3 align = "center"> Hello! Welcome to my profile! </h3>
-[![](https://imgur.com/a/UILY1w2)]
+[![](https://imgur.com/a/UILY1w2.gif)]
      
  
 <!-- About Me Section -->
