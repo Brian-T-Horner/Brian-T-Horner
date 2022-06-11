@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### * <h3> School History </h3
+### * Schooling History 
 
 * Masters of Computer Science Student at TBD (Choosing between schools).
 * Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/)
 * Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/) 
 
 
-I am currently looking for a Software Enginnering Internship! 
+I am currently looking for a Software Enginnering Internship! Find my current resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner/blob/977530b8e9249caf60b18be66760084522d8413a/Brian%20Horner%20-%20Software%20Development.pdf) 
 
 
 ### My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work)
