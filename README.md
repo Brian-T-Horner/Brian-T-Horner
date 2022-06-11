@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am current a Masters of Computer Science Student at TBD (Choosing between schools).
-### I have most recently recieved my Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/)
+### <h3> School History <h/3>
+ <ul>
+<li> Masters of Computer Science Student at TBD (Choosing between schools). </li>
+<li> Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/) </li>
+<li> Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/) </li>
+ </ul>
+
+I am currently looking for a Software Enginnering Internship! 
+
 
 ### My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work)
 
