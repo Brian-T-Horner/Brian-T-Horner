@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About Me
+- Transition
+- Current Work
+- Future Goals
+
 
 Schooling History 
 * Masters of Computer Science Student at TBD (Choosing between schools).
@@ -32,6 +37,8 @@ Current Interests
 Current Projects
 
 Reading List
+
+
 
 
 How to get in touch
