@@ -41,7 +41,7 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 <h3 align="center"> 🔑 &nbsp; Current Interests and Learning Objectives </h3>
  
 * I am in the process of reading [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=sr_1_1?qid=1655005267&refinements=p_lbr_one_browse-bin%3ADonald+E.+Knuth&s=books&sr=1-1), [Data Structures & Algorithms in C++](https://www.amazon.com/gp/product/0470383275/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), and [Data Structures and Algorithms in Python](https://www.amazon.com/gp/product/1118290275/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). Using these books I am currently building a collection of [Data Structures and Algorithms](https://github.com/Brian-T-Horner/DataStructures_and_Algorithms), in C++ and Python, with their time and space complexities.
-* I love Formula One and have been working on using machine learning for [Formula One Data Analysis](https://github.com/BrianHorner-School-Work/CS677_Project).
+* I love Formula One and have been working on using adapting machine learnign techniques for [Formula One Data Analysis](https://github.com/BrianHorner-School-Work/CS677_Project).
 * I am currently interested in compilers and [computer architecture](https://github.com/BrianHorner-School-Work/CS472-Project3). I plan to build my own [compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html) in the near future!
 * I am currently in the early stages of creating ym own 2D game. Follow along with my [progress](https://github.com/Brian-T-Horner/Voyager).
 
