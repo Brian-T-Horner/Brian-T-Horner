@@ -40,7 +40,7 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 
 <h3 align="center"> 🔑 &nbsp; Current Interests and Learning Objectives </h3>
  
-* I am currently building a collection of [Data Structures and Algorithms](https://github.com/Brian-T-Horner/DataStructures_and_Algorithms) with their time and space complexities.
+* I am currently building a collection of [Data Structures and Algorithms](https://github.com/Brian-T-Horner/DataStructures_and_Algorithms), in C++ and Python, with their time and space complexities.
 * I love Formula One and have been working on using machine learning for [Formula One Data Analysis](https://github.com/BrianHorner-School-Work/CS677_Project).
 * I am currently interested in compilers and [computer architecture](https://github.com/BrianHorner-School-Work/CS472-Project3). I plan to build my own [compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html) in the near future!
 * I am currently in the early stages of creating ym own 2D game. Follow along with my [progress](https://github.com/Brian-T-Horner/Voyager).
