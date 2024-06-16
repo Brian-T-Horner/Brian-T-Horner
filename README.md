@@ -36,6 +36,7 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
 
 
 <!-- Interests -->
+<!---
 ---------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center"> 🔑 &nbsp; Current Interests and Learning Objectives </h3>
