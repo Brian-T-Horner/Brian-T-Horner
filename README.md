@@ -14,7 +14,7 @@ I am currently on the journey from a Non-STEM background into a Software Enginee
 
 💻&nbsp;My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work).
 
-I am currently looking for a Software Enginnering Internship or any apprenticeship oppurtunities in the greater Boston area. Find my current master resume [here](https://github.com/Brian-T-Horner/Brian-T-Horner-Resume/blob/52348c0b725431ef976a4c09853e0a9e4c3c73a4/Brian%20Horner%20Resume.pdf).
+I am currently looking for a Software Enginnering Internship or any apprenticeship oppurtunities in the greater Boston area. Find my current master resume [here](https://tinyurl.com/BrianHornerResume).
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ I am currently looking for a Software Enginnering Internship or any apprenticesh
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/uxSDYbYH"><img width="30px" alt="" title="Discord" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:bhorner@suffolk.edu"><img width="30px" alt="" title="Email" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"></a>
+  <a href="mailto:horner.br@northeastern.edu"><img width="30px" alt="" title="Email" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/brian_horner33/"><img width="30px" alt="" title="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
