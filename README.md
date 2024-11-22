@@ -54,7 +54,7 @@ I am currently looking for a software engineering position in the greater Boston
  
 Top Languages
 ---
- ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-T-Horner&show_icons=true&title_color=ffffff&icon_color=2bbc8a&text_color=c9cacc&bg_color=1d1f21&count_private=true&layout=compact) |
+ ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-T-Horner&show_icons=true&title_color=ffffff&icon_color=2bbc8a&text_color=c9cacc&bg_color=1d1f21&count_private=true&layout=compact)
 
  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
