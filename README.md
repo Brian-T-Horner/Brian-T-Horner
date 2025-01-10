@@ -4,11 +4,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 <h3 align="center"> Welcome! 👋&nbsp; </h3>
-I am currently on the journey from a Non-STEM background into a Software Engineer! My schooling history is as follows:
-
 
 <!-- School History -->
-* Masters of Computer Science student at [Northeastern University](https://www.northeastern.edu/graduate/program/master-of-science-in-computer-science-boston-5238/).
+* Masters of Computer Science [Northeastern University](https://www.northeastern.edu/graduate/program/master-of-science-in-computer-science-boston-5238/).
 * Undergraduate Certificate of Computer Science from [Boston University - MET](https://www.bu.edu/met/).
 * Dual Bachelor of Science Degrees in History and Government from [Suffolk University](https://www.suffolk.edu/). 
 
