@@ -12,7 +12,7 @@
 
 💻&nbsp;My backlog of school work can be found [here](https://github.com/BrianHorner-School-Work).
 
-I am currently looking for a software engineering position in the greater Boston area. Find my current master resume [here](https://tinyurl.com/Brian-Horner-Resume-CS).
+I am currently looking for a software engineering position in the greater Boston area. Find my current master resume [here]([https://tinyurl.com/2uzxeen6]).
 
 ---------------------------------------------------------------------------------------------------------------------------
 
